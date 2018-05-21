@@ -69,4 +69,4 @@ This is the subjective replication measurement and represents how far we think a
 
 ### ICERM criteria
 
-For these articles, we also evaluated compliance with the 2012 ICERM guidelines for software publication. See the column_descriptions.md document for more information about how these were evaluated.
+For these articles, we also evaluated compliance with the 2012 ICERM guidelines for software publication. See the [`column_descriptions.md`](column_descriptions.md) document for more information about how these were evaluated.
