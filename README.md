@@ -11,3 +11,7 @@ We conducted an experiment on the computational physics community to measure 1) 
 [`scripts/PRECSNumbers.py`](scripts/PRECSNumbers.py) a script to produce the reported numbers from the included database
 
 [`scripts/run.sh`](scripts/run.sh) a script to run the numbers analysis of the database.
+
+## Computational Environment
+
+The results published in our article were computed using python 3.6.4 in the Arch computing environment. The machine was a desktop with an Intel Core i7-6900K CPU, and two Nvidia GeForce GTX 1080 GPUs.
